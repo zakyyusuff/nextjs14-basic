@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. Install the json-server with command [npm i -g json-server] and run the db firs with command [json-server -w db.json -p 5000]
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. Install the json-server with command (npm i -g json-server) and run the db firs with command (json-server -w db.json -p 5000)
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
