@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. [http://localhost:3000/products](http://localhost:3000/products)
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result after that open [http://localhost:3000/products](http://localhost:3000/products)
 
 Install the json-server with command `npm i -g json-server` and run the db firs with command `json-server -w db.json -p 5000`.
 
